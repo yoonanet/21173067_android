@@ -8,3 +8,10 @@
 <img width="" height="" src="./pic/3주차_메인.png"></img>
 <img width="" height="" src="./pic/3주차_네이버.png"></img>
 <img width="" height="" src="./pic/3주차_전화걸기.png"></img>
+
+# 5주차 과제
+
+<img width="" height="" src="./pic/5st_1.png"></img>
+<img width="" height="" src="./pic/5st_2.png"></img>
+<img width="" height="" src="./pic/5st_3.png"></img>
+<img width="" height="" src="./pic/5st_4.png"></img>
